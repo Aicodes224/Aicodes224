@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋:slightly_smiling_face:
 
-<!--
-**Aicodes224/Aicodes224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Aishwarya Santhosh 
 
-Here are some ideas to get you started:
+- Doing Computer Applications @Amrita Univesity :school:
+- Favourite animal is PYTHON :snake:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Looking forward to learn and contribute :computer:
+
+
+- Reach me on:
+
+     * https://www.linkedin.com/in/aishwaryasanthosh/
+     
+     * aishwaps@gmail.com  :envelope:
