@@ -21,8 +21,8 @@
 
 
 
-## Reach me on:
+## Reach me on 🔗:
 
-     * https://www.linkedin.com/in/aishwaryasanthosh/
+     * https://www.linkedin.com/in/aishwaryasanthosh/ 
      
-     * aishwaps@gmail.com  :envelope:
+     * aishwaps@gmail.com  ✉️
