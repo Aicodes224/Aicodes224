@@ -16,6 +16,8 @@
 - CSS
 - JavaScript
 - SQL
+- PHP
+- Shell
 
 
 
