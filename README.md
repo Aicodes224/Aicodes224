@@ -2,10 +2,21 @@
 
 ## I'm Aishwarya Santhosh 
 
-- Doing Computer Applications @Amrita Univesity :school:
-- Favourite animal is PYTHON :snake:
+- Pursuing Bachelors of Computer Applications @Amrita Univesity :school:
+
+- Exploring the tech world 🌐
 
 - Looking forward to learn and contribute :computer:
+
+##Languages:
+- Python
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+
 
 
 - Reach me on:
