@@ -1,4 +1,4 @@
-# Hi there 👋:slightly_smiling_face:
+# Hi there 👋 🙂:
 
 ## I'm Aishwarya Santhosh 
 
